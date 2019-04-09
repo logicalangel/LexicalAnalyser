@@ -1,0 +1,29 @@
+private int a = 5 
+private int b = 7
+float e = 1 
+
+var num = 1112 
+
+program test
+
+void Start
+
+Var grater = a > b 
+Var equal = e == c
+Var strange = a =!= a 
+
+
+print strange 
+
+Repeat num 
+
+Var input = read x
+
+do Repeat While
+
+Return input
+
+dummy x
+
+Finish 
+
